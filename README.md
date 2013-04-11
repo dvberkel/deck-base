@@ -15,7 +15,7 @@ master branch.
     mkdir example-presentation
     cd example-presentation
     git init
-    git remote add base git@github.com:dvberkel/deck-base.git
+    git remote add base git://github.com/dvberkel/deck-base.git
     git merge origin/master
 
 The repository uses submodules which need to be correctly initialized.
