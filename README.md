@@ -2,8 +2,8 @@ Deck Base
 =========
 
 [deck.js][deck] is a great tool for creating modern HTML
-presentation. Overtime I created got to know a custom set of
-tools. This project can be used as a starting point for the creation
+presentation. Overtime I created a custom set of tools. 
+This project can be used as a starting point for the creation
 of a custom presentation.
 
 Getting Started
