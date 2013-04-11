@@ -9,13 +9,14 @@ of a custom presentation.
 Getting Started
 ---------------
 
-Create a git repository, add this repository as a remote and merge the
-master branch.
+Create a git repository, add this repository as a remote, fetch the content
+and merge the master branch.
 
     mkdir example-presentation
     cd example-presentation
     git init
     git remote add base git://github.com/dvberkel/deck-base.git
+    git fetch base
     git merge origin/master
 
 The repository uses submodules which need to be correctly initialized.
