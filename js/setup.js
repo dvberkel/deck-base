@@ -17,5 +17,7 @@
 		return name;
 	    }
 	}).decktoc();
+
+	$(".gallery").gallery({});
     })
 })(jQuery);
