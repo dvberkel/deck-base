@@ -1,6 +1,8 @@
 Deck Base
 =========
 
+*Deprecated:* This project is deprecated in favor of [generator-deckjs][].
+
 [deck.js][deck] is a great tool for creating modern HTML
 presentation. Overtime I created a custom set of tools. 
 This project can be used as a starting point for the creation
@@ -25,3 +27,4 @@ The repository uses submodules which need to be correctly initialized.
     git submodule update
 
 [deck]: http://imakewebthings.com/deck.js/ "Homepage of deck.js"
+[generator-deckjs]: https://github.com/dvberkel/generator-deckjs
